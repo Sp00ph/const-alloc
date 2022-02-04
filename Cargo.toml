@@ -1,0 +1,13 @@
+[package]
+name = "const-alloc"
+description = "Allocate dynamic memory at compile time"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0 OR MIT"
+authors = ["Markus Everling <markuseverling@gmail.com>"]
+keywords = ["const", "alloc", "allocator-api", "const_allocate", "nightly"]
+repository = "https://github.com/Sp00ph/const-alloc"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
