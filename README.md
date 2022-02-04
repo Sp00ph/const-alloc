@@ -1,6 +1,6 @@
 # const-alloc
 
-[Link to the docs!](docs.rs/const-alloc)
+[Link to the docs!](https://docs.rs/const-alloc)
 
 Allocate memory at compile time!
 
